@@ -1,6 +1,6 @@
 ## About me 
 I am currently ICT for education specialist at University of Namur.
-Among other things, I'm an administration of my University Moodle platform, maintaning it, managing evolution and custom developments.
+Among other things, I'm an administrator of my University Moodle platform, maintaning it, managing evolution and custom developments.
 
 More on this later ;-)
 
